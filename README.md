@@ -1,2 +1,2 @@
-# Bmi-program-
-Kilo boy ölçüp bmi'yi çıkaran bir kod örneği.
+# Vücut Kitle Endeksi Hesaplama
+Kilo ile boy'u ölçüp BMI'yi çıkaran bir kod örneği.
